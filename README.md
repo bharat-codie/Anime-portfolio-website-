@@ -1,6 +1,6 @@
 # 🌌 Bharat Portfolio Website
 
-![Portfolio Screenshot](cp.png)
+![Portfolio Screenshot](rm.jpg)
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
 The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
