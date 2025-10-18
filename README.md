@@ -1,4 +1,4 @@
-# 🌌 Amine Portfolio Website
+# 🌌 Bharat Portfolio Website
 
 ![Portfolio Screenshot](cp.png)
 
@@ -28,9 +28,4 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ---
 
-## ⚙️ Setup & Usage
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
