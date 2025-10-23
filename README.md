@@ -29,3 +29,10 @@ The website features smooth animations, typing effects, responsive design, and a
 ---
 
 
+## ⚙️ Setup & Usage
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/bharat-codie/Anime-portfolio-website-.git
+
+
